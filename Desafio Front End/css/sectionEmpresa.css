@@ -1,0 +1,43 @@
+.empresa{
+    margin: 20px 10px;
+}
+
+.img-trabalho{
+    display: block;
+    float: left;
+    width: 500px;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    border-radius: 0 100px 100px 0;
+}
+
+.titulo-empresa{
+    position: relative;
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+.txt-empresa{
+    text-align: left;
+    font-size: 12px;
+    margin-bottom: 1em;
+}
+
+.btn-fale{
+    position: relative;
+    height: 52px;
+    margin: 25px 100px;
+}
+
+@media screen and (min-width: 280px) {
+
+    .titulo-empresa{
+        position: relative;
+        margin: 0 auto;
+    }
+
+    .btn-fale{
+        height: 52px;
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,15 @@
+.col-sobre{
+    text-align: right;
+    font-size: 12px;
+    margin: 10px 50px;
+    padding: 10px 10px 10px 10px;
+}
+
+.imagens{
+    display: block;
+    float: left;
+    width: 500px;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    border-radius: 0 100px 100px 0;
+}

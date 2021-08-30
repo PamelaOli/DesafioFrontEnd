@@ -1,0 +1,35 @@
+.titulo-principal{
+    text-align: left;
+    font-size: 40px;
+    font-weight: bolder;
+    width: 400px;
+}
+
+.txt-conteudo{
+    display: block;
+    position: relative;
+    text-align: left;
+    margin-left: 0%;
+    margin-bottom: 1em;
+}
+
+.div-img-sobre{
+    position: relative;
+    display: block;
+    float: right;
+}
+
+.img-sobre{
+    display: block;
+    float: right;
+    margin-left: 2em;
+    width: 500px;
+    top: 40px;
+}
+
+.btn-orcamento{
+    position: absolute;
+    width: 292px;
+    height: 52px;
+    margin: 25px;
+}

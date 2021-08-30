@@ -1,0 +1,19 @@
+.titulo-video, .titulo-noticia{
+    font-size: 26px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 30px;
+}
+
+.txt-video, .txt-noticia{
+    text-align: center;
+    padding: 10px;
+}
+
+.img-video{
+    position: flex;
+    flex-direction: column;
+    margin: 10px 50px 20px;
+    padding: 10px;
+    width: 900px;
+}

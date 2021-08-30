@@ -1,0 +1,35 @@
+.titulo-form{
+    margin-bottom: 1em;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.txt-form{
+    font-size: 10px;
+    max-width: 300px;
+    line-height: 1.6;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+.campo-cadastro {
+    text-align: center;
+    text-transform: uppercase;
+    margin: .8em auto;
+    position: relative;
+    width: 500px;
+  }
+
+#nomesobrenome, #email, #telefone{
+    position: relative;
+    margin: 10px;
+    max-width: 500px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 1em;
+    padding: .5em;
+    min-height: 50px;
+    outline: 0;
+}
+

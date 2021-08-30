@@ -1,0 +1,31 @@
+.projetos-homem ul{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.projetos-homem li{
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+    vertical-align: top;
+    margin: 20px 50px;
+    padding: 20px 20px;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    box-shadow: rgb(197, 192, 192) 4px 4px 4px 4px;
+}
+
+.txt-homem{
+    font-size: 10px;
+    margin-bottom: 1em;
+}
+
+@media (min-width: 830px) {
+
+    .projetos-homem li{
+      padding-bottom: 0;
+      background-color: #f7f4f4;
+    }
+  }
+  

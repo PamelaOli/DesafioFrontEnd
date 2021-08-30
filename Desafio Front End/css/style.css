@@ -1,0 +1,76 @@
+.container {
+    display: block;
+    padding: 0;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.titulo-form, .titulo-principal, .titulo-explicacao, .titulo-sobre,
+  .titulo-porque, .titulo-noticia, .titulo-form{
+      font-size: 26px;
+      font-weight: bolder;
+}
+
+button, .input-enviar{
+    color:#fff;
+    font-weight: bold;
+    border: none;
+    width: 304.42px;
+    height: 52px;
+}
+
+.btn-comecar, .btn-orcamento, .btn-comecar-foguete, .input-enviar{
+    background: linear-gradient(90deg, #FD8B09 0.01%, #F6B820 100%);
+    box-shadow: 0px 4px 10px rgba(247, 179, 29, 0.22);
+    border-radius: 26px;
+}
+
+.btn-gostou, .btn-fale{
+    background: linear-gradient(81.82deg, #4388FC 6.48%, #08CAFF 107.81%);
+    box-shadow: 0px 4px 10px rgba(30, 177, 254, 0.22);
+    border-radius: 26px;
+}
+
+.section-explicacao, .div-dados, .txt-conheca, .txt-processo, .opniao{
+    text-align: center;
+}
+
+.section-dados{
+    margin: 90px;
+    text-align: center;
+}
+
+.section-explicacao{
+    position: relative;
+    margin-bottom: 1em;
+    padding: 10px 10px;
+    margin: 0 0 10px;
+}
+
+.btn-gostou, .btn-comecar-foguete, .txt-comecar{
+    margin: 40px;
+}
+
+.depoimento, .clientes{
+    display: inline-block;
+    text-align: left;
+    font-size: 12px;
+    margin-bottom: 1em;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("../img/image 1.png");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.div-rodape{
+    padding: 0;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+h5{
+    font-size: 30px;
+}
+
+.depoimento{
+    display: inline-block;
+    text-align: left;
+    font-size: 15px;
+    margin: 10px 50px;
+    padding: 10px 10px 10px 10px;
+}
+
+.clientes{
+    display: inline-block;
+    text-align: right;
+    font-size: 15px;
+    margin: 10px 50px;
+    padding: 10px 0px 10px 10px;
+}
